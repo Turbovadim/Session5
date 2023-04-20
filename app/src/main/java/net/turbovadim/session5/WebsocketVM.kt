@@ -42,5 +42,7 @@ class WebsocketVM: ViewModel() {
         }
     }
 
-    private fun messageHandler
+    private fun messageHandler() {
+
+    }
 }
